@@ -1,0 +1,35 @@
+The following program submission has been recorded:
+
+Student: will2051
+Class: CS159
+Section: 23400
+Assignment: lab00.c
+Submission: 2019-08-23 11:56
+
+If this is incorrect, you are responsible for resubmitting the assignment or seeking assistance from a course staff member prior to the due date! Assignments will not be accepted by e-mail.
+
+If this is for a lab assignment, only one member is allowed to make a submission for the group.  Graders will not evaluate submissions from multiple group members to determine which effort you actually want graded.
+
+*** Please do not reply to this email ***
+
+The contents of the submission:
+     1	/******************************************************************************
+     2	* Assignment:  Lab 0
+     3	* Lab Section: Friday, 11:30 AM, LILY G428
+     4	* Description: You need to replace your career account userid for login1 and
+     5	*              your TAs career account userid for login2. After you submit the
+     6	*              program, make sure you and TA receive a confirmation e-mail.
+     7	* Programmers: Zachary Williams will2051@purdue.edu
+     8	*              Blessie Tandon btandon@purdue.edu
+     9	******************************************************************************/
+    10	#include <stdio.h>
+    11	
+    12	int main(void)
+    13	{
+    14	  // local declarations
+    15	
+    16	  // executable statements
+    17	  printf("Welcome to CS 159!\n");
+    18	
+    19	  return 0;
+    20	}
